@@ -1,3 +1,2 @@
-# My Awesome Book
+主要是翻译boost的英文帮助，还有自己的学习代码、体会。
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
