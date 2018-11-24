@@ -6,3 +6,5 @@ windows10，visual studio 2017。
 
 执行bootstrap.bat。
 
+b2 install --prefix="D:\Program Files\boost-1.68"
+
